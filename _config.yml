@@ -53,7 +53,7 @@ author:
   name: Gwen Yale
   email: "gwen.yale48@gmail.com"
   facebook: gwendolynyale  # eg. daattali
-  github: yourname    # eg. daattali
+  github: gwenyale    # eg. daattali
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -71,7 +71,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: false
