@@ -17,7 +17,7 @@ baseurl: ""
 title: Gwen Yale
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Expect random and hopefully interesting thoughts on life and writing.
 
 # --- Navigation bar options --- #
 
@@ -106,7 +106,7 @@ url-pretty: "gwenyale.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "gwenyale-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-106742654-1"
 
 # Google Tag Manager ID
 #gtm: ""
