@@ -4,7 +4,7 @@ title: Senior Year is like Hiking to a Glacier
 tags: [hiking, college, senior, year]
 ---
 
-![Glacier]("{{ site.baseurl }}/img/glacier_hike.jpg")
+![Glacier]("../img/glacier_hike.jpg")
 This summer, I went on a family vacation to Montana. I saw mountains, glaciers, bears (yes plural) and many pretty landscapes. However, I’ve found that this picture of our hike around the bend to Grinnell Glacier has the most meaning to me now. As I sit a few weeks into senior year, everyday it hits harder that in a few short months, who knows what I’ll be doing. My future is one huge ?-- it is the curve of the trail around the bend.
 
 I didn’t know what was around the corner or what was at the end of the trail. I’d get glimpses. I knew that there was a glacier and that it was supposed to be beautiful. Same as I know I have the means and ability to find a job, and it will hopefully be something I love. The glacier wasn’t the end of the trail, though. We relaxed by the edge of the water, by the beautiful ice, and took our photos. Then there was the hike down.
