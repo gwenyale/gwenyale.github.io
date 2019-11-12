@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Gwen Yale
+title: Adulting Diaries
 
 # Short description of your site
-description: Expect random and hopefully interesting thoughts on life and writing.
+description: "#Ihateadulting #selfcaresunday"
 
 # --- Navigation bar options --- #
 
@@ -61,7 +61,7 @@ author:
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
-  instagram: forevergwenny # eg. daattali
+  instagram: yale.gwen # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
@@ -106,7 +106,7 @@ url-pretty: "gwenyale.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "gwenyale-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-106742654-1"
+google_analytics: "UA-152328986-1"
 
 # Google Tag Manager ID
 #gtm: ""
