@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+title: About Me
 subtitle: Learn Who I Am, According to Me
 ---
 
